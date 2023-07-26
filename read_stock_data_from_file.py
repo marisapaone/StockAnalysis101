@@ -2,9 +2,6 @@
 """
 @author: Marisa Paone
 Class: CS677
-Facilitator: Sarah Cameron
-Date: 7/7/23
-Homework#1 Problems 1-6
 
 this scripts reads your ticker file (e.g. PG.csv and SPY.csv) and
 constructs a list of lines
