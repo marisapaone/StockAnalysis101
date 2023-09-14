@@ -1,4 +1,4 @@
-# StockAnalysis101
+# S&P Stock Predictions
 
 This program predicts stock patterns labels and classes based on available stock data. Years 1, 2, and 3 are training years and 4 and 5 are testing. This program also uses ensemble learning, W as a hyperparameter, and an oracle. 
 
